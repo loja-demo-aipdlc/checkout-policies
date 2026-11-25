@@ -1,0 +1,7 @@
+# Política da squad Checkout (nível S).
+level: squad
+name: checkout-policies
+squad: checkout
+techLead: github:missiodev
+alternates:
+  github:missiodev: github:PedroLeale
